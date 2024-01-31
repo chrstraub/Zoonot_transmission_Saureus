@@ -9,7 +9,7 @@ R script for plotting Figures 2 and 3 - `scripts/Figure2_Figure3.R`
 see `scripts/pairwise_SNPS_tidy.R`
 
 ## AMR and virulence finder:
-see `scripts/AMR_vir.sh`` - to do
+see `scripts/AMR_vir.sh` - to do
 
 ## Phylogenies:
 SNP-calling and filtering was done using the workflow published in Straub et al. 2021 (https://doi.org/10.1099%2Fmgen.0.000701) 
