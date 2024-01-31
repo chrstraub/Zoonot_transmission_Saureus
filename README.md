@@ -3,10 +3,10 @@
 This repository contains the scripts used for the analysis of the data in the manuscript: "Zoonotic transmission of asymptomatic carriage Staphylococcus aureus on dairy farms in Canterbury, New Zealand"
 
 ## Typing analysis
-R script for plotting Figures 2 and 3 - `scripts/Figure2_Figure3.R``
+R script for plotting Figures 2 and 3 - `scripts/Figure2_Figure3.R`
 
 ## Transmission analysis in R:
-see `scripts/pairwise_SNPS_tidy.R``
+see `scripts/pairwise_SNPS_tidy.R`
 
 ## AMR and virulence finder:
 see `scripts/AMR_vir.sh`` - to do
